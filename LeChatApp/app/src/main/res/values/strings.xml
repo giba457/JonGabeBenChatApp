@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LeChatApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_rooms">Rooms</string>
 </resources>
