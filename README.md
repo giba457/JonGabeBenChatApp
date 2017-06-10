@@ -1,2 +1,2 @@
 # JonGabeBenChatApp
-Furries united! Happiness is just a 9 letter word with penis in it. 8====D~~~~~
+A chat app for our fellow compatriots to enjoy chatting with one another. Chicken Spaghetti.
